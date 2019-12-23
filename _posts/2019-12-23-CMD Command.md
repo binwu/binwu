@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Thanks for those 100 stars!"
+---
+
 输出字符
 ### echo
 ````
